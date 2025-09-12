@@ -1,15 +1,15 @@
 proxies:
-  - {name: 🇯🇵 日本2, server: 45.11.1.62, port: 50000, type: hysteria2, password: b798a2b0-d4e5-48e5-8956-c674c5201129, auth: b798a2b0-d4e5-48e5-8956-c674c5201129, sni: www.microsoft.com, skip-cert-verify: true, ports: 50000-55000, udp: true}
-  - {name: 🇯🇵 日本01, server: gdyd123.nana.pics, port: 27952, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇺🇸 美国01, server: gdyd123.nana.pics, port: 52378, type: ss, cipher: aes-128-gcm, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇸🇬 新加坡01, server: gdyd123.nana.pics, port: 22507, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇩🇪 德国01, server: gdyd123.nana.pics, port: 42538, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇹🇼 台湾01|家宽, server: nekocloud.tencentapp.cn, port: 443, type: vless, uuid: 1ca1226c-f58c-413b-bedf-b5d6eb2b6c6e, tls: true, servername: xn--kprw13d.xn--9kq81ml53a.site, network: ws, ws-opts: {path: /, headers: {Host: xn--kprw13d.xn--9kq81ml53a.site}}, udp: true}
-  - {name: 🇬🇧 英国01, server: gdyd123.nana.pics, port: 21629, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇭🇰 香港04, server: gdyd123.nana.pics, port: 26762, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇫🇷 法国01, server: gdyd123.nana.pics, port: 42917, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇳🇱 荷兰01, server: gdyd123.nana.pics, port: 52426, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇯🇵 日本03, server: gdyd123.nana.pics, port: 21868, type: ss, cipher: aes-128-gcm, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇮🇹 意大利01, server: gdyd123.nana.pics, port: 13978, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇻🇳 越南01, server: gdyd123.nana.pics, port: 31628, type: ss, cipher: chacha20-ietf-poly1305, password: f98e0a44-b996-4242-bd58-4694ad1ac1a6, udp: true}
-  - {name: 🇯🇵 日本, server: 133.18.163.202, port: 50000, type: hysteria2, password: b798a2b0-d4e5-48e5-8956-c674c5201129, auth: b798a2b0-d4e5-48e5-8956-c674c5201129, sni: www.microsoft.com, skip-cert-verify: true, ports: 50000-55000, udp: true}
+  - {name: 🇯🇵 日本, server: 133.18.163.202, port: 50000, type: hysteria2, password: 9ba0a3d9-bbd2-4023-89a6-8c02bfec7e54, auth: 9ba0a3d9-bbd2-4023-89a6-8c02bfec7e54, sni: www.microsoft.com, skip-cert-verify: true, ports: 50000-55000, udp: true}
+  - {name: 🇭🇰 香港04, server: gdyd123.nana.pics, port: 26762, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇯🇵 日本01, server: gdyd123.nana.pics, port: 27952, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇮🇹 意大利01, server: gdyd123.nana.pics, port: 13978, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇫🇷 法国01, server: gdyd123.nana.pics, port: 42917, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇩🇪 德国01, server: gdyd123.nana.pics, port: 42538, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇸🇬 新加坡01, server: gdyd123.nana.pics, port: 22507, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇻🇳 越南01, server: gdyd123.nana.pics, port: 31628, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇯🇵 日本03, server: gdyd123.nana.pics, port: 21868, type: ss, cipher: aes-128-gcm, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇬🇧 英国01, server: gdyd123.nana.pics, port: 21629, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇹🇼 台湾01|家宽, server: nekocloud.tencentapp.cn, port: 443, type: vless, uuid: 17773578-8a3d-441f-8a9c-2cecced6704e, tls: true, servername: xn--kprw13d.xn--9kq81ml53a.site, network: ws, ws-opts: {path: /, headers: {Host: xn--kprw13d.xn--9kq81ml53a.site}}, udp: true}
+  - {name: 🇯🇵 日本2, server: 45.11.1.62, port: 50000, type: hysteria2, password: 9ba0a3d9-bbd2-4023-89a6-8c02bfec7e54, auth: 9ba0a3d9-bbd2-4023-89a6-8c02bfec7e54, sni: www.microsoft.com, skip-cert-verify: true, ports: 50000-55000, udp: true}
+  - {name: 🇺🇸 美国01, server: gdyd123.nana.pics, port: 52378, type: ss, cipher: aes-128-gcm, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
+  - {name: 🇳🇱 荷兰01, server: gdyd123.nana.pics, port: 52426, type: ss, cipher: chacha20-ietf-poly1305, password: 1df6f917-4503-4248-a7eb-daa10d545538, udp: true}
